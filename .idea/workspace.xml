@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d348b29-17fd-4662-a688-15a08e9314b5" name="Default Changelist" comment="Routes">
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/JuniorPlus.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/HW5.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Routes.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +30,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h5/pages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/p2-homeworks/h5/pages" />
+      <recent name="$PROJECT_DIR$/src/p2-homeworks/h5" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.start">
     <configuration name="Message.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -97,7 +103,7 @@
       <workItem from="1639850708945" duration="87000" />
       <workItem from="1643051753134" duration="449000" />
       <workItem from="1644179964749" duration="3019000" />
-      <workItem from="1644953236688" duration="2824000" />
+      <workItem from="1644953236688" duration="8066000" />
     </task>
     <task id="LOCAL-00001" summary="HW5">
       <created>1644183672061</created>

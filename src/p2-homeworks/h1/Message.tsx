@@ -1,4 +1,4 @@
-import React, {CElement} from 'react'
+import React from 'react'
 import m from './Message.module.css'
 
 type messageType = {
