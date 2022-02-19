@@ -9,9 +9,13 @@ function HW6() {
     const save = () => {
         saveState<string>('editable-span-value', value)
     }
+
+    let localValue = restoreState('editable-span-value', 'No local saves')
+
     const restore = () => {
-        // setValue()
+        setValue(localValue)
     }
+
 
     return (
         <div>
