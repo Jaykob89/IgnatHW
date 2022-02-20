@@ -1,0 +1,14 @@
+.select {
+    width: 100px;
+    padding: 5px;
+    padding-right: 30px;
+
+    cursor: pointer;
+    background-color: cyan;
+}
+
+.select:focus {
+    outline: none;
+    border: cyan solid 2px ;
+}
+

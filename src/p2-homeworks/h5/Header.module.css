@@ -25,7 +25,7 @@
     width: 320px;
 
     transition-duration: 500ms;
-    transform: translate(-220px);
+    transform: translate(-260px);
 }
 
 .header:hover {
