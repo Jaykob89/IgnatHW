@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d348b29-17fd-4662-a688-15a08e9314b5" name="Default Changelist" comment="HW8">
+    <list default="true" id="7d348b29-17fd-4662-a688-15a08e9314b5" name="Default Changelist" comment="HW9">
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/Preloader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/image/b4d657e7ef262b88eb5f7ac021edda87.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/loadingReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/pages/Junior.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +58,9 @@
       <recent name="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan" />
       <recent name="$PROJECT_DIR$/src/p2-homeworks/h5/pages" />
       <recent name="$PROJECT_DIR$/src/p2-homeworks/h5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/p2-homeworks/h10/image" />
     </key>
   </component>
   <component name="RunManager" selected="Jest.sort name up">
@@ -145,7 +162,7 @@
       <workItem from="1639850708945" duration="87000" />
       <workItem from="1643051753134" duration="449000" />
       <workItem from="1644179964749" duration="3019000" />
-      <workItem from="1644953236688" duration="31413000" />
+      <workItem from="1644953236688" duration="36263000" />
     </task>
     <task id="LOCAL-00001" summary="HW5">
       <created>1644183672061</created>
@@ -182,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645392375479</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW9">
+      <created>1645479542432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645479542432</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +241,7 @@
     <MESSAGE value="add css" />
     <MESSAGE value="HW6" />
     <MESSAGE value="HW8" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW8" />
+    <MESSAGE value="HW9" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW9" />
   </component>
 </project>
